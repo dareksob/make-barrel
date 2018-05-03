@@ -1,0 +1,18 @@
+{
+  "name": "make-barrel",
+  "version": "1.0.0",
+  "bin": {
+    "make-barrel": "src/make-barrel.js"
+  },
+  "main": "src/make-barrel.js",
+  "description": "make barrel files",
+  "scripts": {},
+  "keywords": [
+    "generator",
+    "barrel",
+    "node",
+    "command-line"
+  ],
+  "author": "Darius Sobczak<mail@dsobczak.de>",
+  "license": "ISC"
+}
